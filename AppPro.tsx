@@ -15,14 +15,15 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: 'center',
+    justifyContent: 'center',
   },
   lightText: {
-    color: '#eb50eb445',
-    fontSize: 56,
+    color: '#fff',
+    fontSize: 18,
   },
   darkText: {
-    color: '#eb50eb445',
-    fontSize: 56,
+    color: '#9d1212',
+    fontSize: 18,
   },
 });
 
